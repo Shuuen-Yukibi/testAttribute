@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\epic game\\Unreal Projects\\testAttribute\\Source\\testAttribute\\testAttribute.Build.cs",
+		"D:\\epic game\\Unreal Projects\\testAttribute\\Source\\testAttribute.Target.cs",
+		"D:\\epic game\\Unreal Projects\\testAttribute\\Source\\testAttributeEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
